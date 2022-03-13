@@ -1,0 +1,32 @@
+.img {
+  width: 70px;
+}
+
+.table > tbody > tr > td {
+  vertical-align: middle;
+}
+
+h2 {
+  text-align: center;
+  /* border-bottom: 1px dashed #e8e8e8; */
+}
+
+.kotak {
+  padding: 10px;
+  border: 1px solid #e8e8e8;
+  margin-bottom: 15px;
+  background: #f4f4f4;
+  border-radius: 5px;
+}
+.kotak2 {
+  padding: 20px;
+  border: 1px solid #e8e8e8;
+  margin-bottom: 15px;
+}
+
+.bola a:hover {
+  letter-spacing: 1px;
+}
+.bola a {
+  text-decoration: none;
+}
